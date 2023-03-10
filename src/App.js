@@ -5,7 +5,7 @@ import Editor from './Editor';
 import WritingArea from './WritingArea';
 import  { useState } from 'react';
 import ReactQuill from 'react-quill';
-import 'react-quill/dist/quill.snow.css'; // Import Quill styles
+
 import uuid from 'react-uuid';
 
 
